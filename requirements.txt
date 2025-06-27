@@ -1,0 +1,4 @@
+aiohttp == 3.12.13
+openai == 1.92.3
+sounddevice == 0.5.2
+numpy == 2.3.1
