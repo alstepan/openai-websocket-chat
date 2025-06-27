@@ -60,7 +60,8 @@ Note: please make sure the python environment is activated in the terminal befor
 $ python test/test_client.py
 ```
 
-Client is also configurable, use `--help` option to see available option
+Client is also configurable, use `--help` option to see available option\
+Client plays audio using sounddevice librady.
 
 ## Running html/javasctip client
 
